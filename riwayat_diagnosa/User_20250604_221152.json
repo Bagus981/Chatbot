@@ -1,0 +1,17 @@
+{
+  "nama": "User",
+  "kendaraan": "Motor",
+  "gejala": [
+    "Boros bensin",
+    "Mesin brebet",
+    "Suara mesin ngos-ngosan",
+    "Suara mesin tersendat",
+    "Susah starter"
+  ],
+  "diagnosa": [
+    "Karburator Kotor",
+    "Busi Rusak",
+    "Filter Udara Kotor"
+  ],
+  "waktu": "20250604_221152"
+}

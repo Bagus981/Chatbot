@@ -1,0 +1,14 @@
+{
+  "nama": "User",
+  "kendaraan": "Mobil",
+  "gejala": [
+    "Air radiator cepat habis",
+    "Mobil cepat panas",
+    "Suara berdecit saat rem"
+  ],
+  "diagnosa": [
+    "Radiator Bocor",
+    "Rem Aus"
+  ],
+  "waktu": "20250606_204418"
+}
